@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @anjalimishra2800  
-- 👀 I’m passionate about Data, Product Strategy, and Artificial Intelligence  
-- 🌱 Currently learning Python, with a focus on data analysis (Pandas, NumPy), data visualization (Matplotlib, Seaborn), and the fundamentals of machine learning  
-- 🧠 Also exploring how AI can enhance user experience and inform smarter product decisions  
-- 📫 Reach me at anjalimishraofficial28@gmail.com 
-- ⚡ Fun fact: I love turning patterns in data into stories—combining logic, creativity, and user empathy
+- 👋 Hi, I’m Anjali Mishra  
+- 👀 Interested in data, product strategy, and artificial intelligence  
+- 🌱 Currently learning Python with a focus on data analysis, data visualization, and foundational machine learning  
+- 🧠 Exploring how AI can drive smarter product decisions and improve user experiences  
+- 📫 Contact: anjalimishraofficial28@gmail.com  
+- ⚡ Fun fact: I enjoy uncovering trends, patterns, and stories hidden in data.
+
 
 <!---
 anjalimishra2800/anjalimishra2800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
