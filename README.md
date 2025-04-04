@@ -2,8 +2,7 @@
 - 👀 I’m passionate about Data, Product Strategy, and Artificial Intelligence  
 - 🌱 Currently learning Python, with a focus on data analysis (Pandas, NumPy), data visualization (Matplotlib, Seaborn), and the fundamentals of machine learning  
 - 🧠 Also exploring how AI can enhance user experience and inform smarter product decisions  
-- 📫 Reach me at anjalimishraofficial28@gmail.com  
-- 😄 Pronouns: She/Her  
+- 📫 Reach me at anjalimishraofficial28@gmail.com 
 - ⚡ Fun fact: I love turning patterns in data into stories—combining logic, creativity, and user empathy
 
 <!---
